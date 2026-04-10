@@ -12,3 +12,10 @@ Medidas de Dispersão: Variância, desvio padrão e coeficiente de variação pa
 Propriedades de Distribuição: Análise de simetria e curtose para identificar o perfil da distribuição da produção de leite.
 
 Dados: Os dados foram extraídos da Pesquisa Trimestral do Leite (IBGE/SIDRA), com foco exclusivo na região Sul do Brasil.
+
+<img width="412" height="507" alt="image" src="https://github.com/user-attachments/assets/e01455de-bc91-4f59-88dd-7c8ac8940920" />
+
+
+<img width="412" height="507" alt="image" src="https://github.com/user-attachments/assets/0670e250-f256-47f6-b057-b539991fb3af" />
+
+<img width="412" height="507" alt="image" src="https://github.com/user-attachments/assets/71836ec5-c591-4d4d-a085-1970602f0e2d" />
